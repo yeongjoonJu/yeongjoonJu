@@ -6,5 +6,5 @@
     </div>
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeongjoonJu&theme=highcontrast&hide=Jupyter Notebook&layout=compact&langs_count=10"/>
-<img src="https://github-readme-stats.vercel.app/api?username=yeongjoonJu&theme=synthwave"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeongjoonJu&theme=highcontrast&hide=Jupyter Notebook&layout=compact&langs_count=10"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=yeongjoonJu&theme=synthwave"/>
