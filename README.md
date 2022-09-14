@@ -18,4 +18,4 @@ I'm researching **Neural Network Dissection** interpreting hidden units in neura
 
 + Y-J. Ju and G-H. Lee et al., ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion From a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022
 
-  [![](https://img.shields.io/badge/GitHub-Public code-181717.svg?style=logo=GitHub)](https://github.com/yeongjoonJu/CFR-GAN)
+  <a href="https://github.com/yeongjoonJu/CFR-GAN"><img src="https://img.shields.io/badge/GitHub-Public code-181717.svg?style=logo=GitHub"/></a>
