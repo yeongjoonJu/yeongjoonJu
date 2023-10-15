@@ -15,6 +15,9 @@ I'm researching **Neural Network Dissection** interpreting hidden units in neura
 
 ### :page_with_curl: Publications 
 
++ **[Y-J. Ju](https://github.com/yeongjoonJu)**, J-H. Park, and S-W. Lee, ["Neuron-based Debugging Framework for Neural Networks Using Class-conditional Visualizations"](https://arxiv.org/abs/2310.07184), Arxiv, 2023 | **[code](https://github.com/yeongjoonJu/NeuroInspect)**
+    > Submitted to TNNLS (NeurIPS 2023: rejected - 3 weak accept and 1 reject)
+
 + **[Y-J. Ju](https://github.com/yeongjoonJu)**, G-H. Lee, J-H. Hong, and S-W. Lee, ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion From a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022 | **[code](https://github.com/yeongjoonJu/CFR-GAN)**
 
 + [T-J. Woo](https://github.com/squiduu), W-J. Nam, **[Y-J. Ju](https://github.com/yeongjoonJu)**, and S-W. Lee, ["COMPENSATORY DEBIASING FOR GENDER IMBALANCES IN LANGUAGE MODELS"](https://ieeexplore.ieee.org/document/10095658), ICASSP, 2023 (oral) | **[code](https://github.com/squiduu/guidebias)**
