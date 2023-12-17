@@ -25,12 +25,12 @@ I'm researching **Neural Network Dissection** interpreting hidden units in neura
 
 ### :computer: Research Projects (national or industry-academic projects)
 
-+ Research on AI-based large-scale language modeling techniques for `Military-related topic (hidden)`, Agency for Defense Development (ADD, 국방과학연구소), Korea (August 2023 ~ present) `Team leader (practitioner)`
++ Research on AI-based large-scale language modeling techniques for `Military-related topic (hidden)`, Agency for Defense Development (ADD, 국방과학연구소), Korea (Aug. 2023 ~ Nov. 2023) `Team leader (practitioner)`
 
-+ Development of an AI assistant for elementary education teacher based on a large language model (LLM), i-Scream edu (아이스크림에듀), Korea (May 2023 ~ present) `Team leader (practitioner)`
++ Development of an AI assistant for elementary education teacher based on a large language model (LLM), i-Scream edu (아이스크림에듀), Korea (May 2023 ~ Jan. 2024) `Team leader (practitioner)`
     > Research of LLM for NLG 
 
-+ Development of Artificial Intelligence Technology for Personalized Plug-and-Play Explanation and Verification of Explanation, Institute of Information & communications Technology Planning & Evaluation (IITP), Korea (Jun. 2022 ~ present) `Team leader (practitioner)`
++ Development of Artificial Intelligence Technology for Personalized Plug-and-Play Explanation and Verification of Explanation, Institute of Information & communications Technology Planning & Evaluation (IITP), Korea (Jun. 2022 ~ Dec. 2023) `Team leader (practitioner)`
     > Research of plug-and-play debugging for the decision-making process of neural networks
 
 + Development of facial skin change analysis and visualization techniques, Samsung Electronics (삼성전자), Korea (Jun. 2020 ~ Jun. 2021)
