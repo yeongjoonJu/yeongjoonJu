@@ -35,3 +35,11 @@ I'm researching **Neural Network Dissection** interpreting hidden units in neura
 
 + Development of facial skin change analysis and visualization techniques, Samsung Electronics (삼성전자), Korea (Jun. 2020 ~ Jun. 2021)
     > Research of facial dense alignment technique based on optical flow 
+
+### :+1: Awards, etc.
+
++ Grand Prize in The 6th SW·AI Hackerton, Sejong University, Korea (Jul. 2019)
+  > Project: Android application that manage seat status for discussion lounge / Development of seat status detection model and API based on Flask (Jul. 2019 ~ Jul. 2019)
+
++ Grand Prize in The 7th Creative Design Competition, Sejong University, Korea (Jun. 2019)
+  > Project: Web application that automatically blurs out license plates and faces / Development of web application based on React.js, detection models, and API. (Mar. 2019 ~ Jun. 2019)
