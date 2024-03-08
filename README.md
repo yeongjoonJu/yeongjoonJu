@@ -29,7 +29,7 @@ I'm researching **Neural Network Dissection** interpreting hidden units in neura
 
 + Research on AI-based large-scale language modeling techniques for `Military-related topic (hidden)`, Agency for Defense Development (ADD, 국방과학연구소), Korea (Aug. 2023 ~ Nov. 2023) `Team leader (practitioner)`
 
-+ Development of an AI assistant for elementary education teacher based on a large language model (LLM), i-Scream edu (아이스크림에듀), Korea (May 2023 ~ Jan. 2024) `Team leader (practitioner)`
++ Development of an AI assistant for elementary education teacher based on a large language model (LLM), i-Scream Edu (아이스크림에듀), Korea (May 2023 ~ Jan. 2024) `Team leader (practitioner)`
     > Research of LLM for NLG 
 
 + Development of Artificial Intelligence Technology for Personalized Plug-and-Play Explanation and Verification of Explanation, Institute of Information & communications Technology Planning & Evaluation (IITP), Korea (Jun. 2022 ~ Dec. 2023) `Team leader (practitioner)`
@@ -40,8 +40,10 @@ I'm researching **Neural Network Dissection** interpreting hidden units in neura
 
 ### :+1: Awards, etc.
 
++ Reviewer at IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
+
 + Grand Prize in The 6th SW·AI Hackerton, Sejong University, Korea (Jul. 2019)
-  > Project: Android application that manage seat status for discussion lounge / Development of seat status detection model and API based on Flask (Jul. 2019 ~ Jul. 2019)
+  > Project: Android application that manages seat status for discussion lounge / Development of seat status detection model and API based on Flask (Jul. 2019 ~ Jul. 2019)
 
 + Grand Prize in The 7th Creative Design Competition, Sejong University, Korea (Jun. 2019)
   > Project: Web application that automatically blurs out license plates and faces / Development of web application based on React.js, detection models, and API. (Mar. 2019 ~ Jun. 2019)
