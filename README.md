@@ -17,10 +17,12 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 + ["Neuron-based Debugging Framework for Neural Networks Using Class-conditional Visualizations"](https://arxiv.org/abs/2310.07184), arXiv, 2023. | **[code](https://github.com/yeongjoonJu/NeuroInspect)**
     > Authors: **[Y-J. Ju](https://github.com/yeongjoonJu)**, [J-H. Park](https://github.com/ian-jihoonpark), and S-W. Lee
+    
     > History -> NeurIPS 2023: rejected - 3 borderline accept and 1 reject
 
 + "Class-conditional Feature Visualizations in Realistic Image Space for Neuron-based Debugging", KCC XAI Workshop, 2024 (oral).
     > Authors: **[Y-J. Ju](https://github.com/yeongjoonJu)**, [J-H. Park](https://github.com/ian-jihoonpark), and S-W. Lee
+    
     > Oral speaker: Yeong-Joon Ju
 
 + ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022. | **[code](https://github.com/yeongjoonJu/CFR-GAN)**
@@ -34,10 +36,12 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 + "Enhancing Robustness of Over-Parameterized Models via Feature Reweighting Using Logit-Wise Mixup", ICPRAI, 2024 (oral).
     > Authors: W-S. Jo, **[Y-J. Ju](https://github.com/yeongjoonJu)**, and S-W. Lee
+    
     > Oral speaker: Yeong-Joon Ju
 
 + ["Compensatory Debiasing for Gender Imbalances in Language Models"](https://ieeexplore.ieee.org/document/10095658), ICASSP, 2023 (oral). | **[code](https://github.com/squiduu/guidebias)**
     > Authors: [T-J. Woo](https://github.com/squiduu), W-J. Nam, **[Y-J. Ju](https://github.com/yeongjoonJu)**, and S-W. Lee
+    
     > Oral speaker: Yeong-Joon Ju
 
 ### :computer: Research Projects (national or industry-academic projects)
