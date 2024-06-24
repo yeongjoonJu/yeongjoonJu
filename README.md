@@ -10,19 +10,27 @@
 
 :mortar_board: *Affiliation*: [Pattern Recognition and Machine Learning Lab](http://pr.korea.ac.kr) in Korea University (2020~)
 
-I'm researching **Neural Network Dissection** interpreting hidden units in neural networks and **Language Modeling** adapted to specific domains or languages.
+I'm researching efficient and effective in-context augmentation for multimodal large language models (MLLMs).
 > Research direction: face generation (vision) $\rightarrow$ dialogue generation (NLP) $\rightarrow$ neural network debugging (XAI) $\rightarrow$ :sun_with_face: **language modeling for multimodalities (NLP)**
 
 ### :page_with_curl: Publications 
 
-+ **[Y-J. Ju](https://github.com/yeongjoonJu)**, J-H. Park, and S-W. Lee, ["Neuron-based Debugging Framework for Neural Networks Using Class-conditional Visualizations"](https://arxiv.org/abs/2310.07184), Arxiv, 2023 | **[code](https://github.com/yeongjoonJu/NeuroInspect)**
++ **[Y-J. Ju](https://github.com/yeongjoonJu)**, [J-H. Park](https://github.com/ian-jihoonpark), and S-W. Lee, ["Neuron-based Debugging Framework for Neural Networks Using Class-conditional Visualizations"](https://arxiv.org/abs/2310.07184), arXiv, 2023. | **[code](https://github.com/yeongjoonJu/NeuroInspect)**
     > History -> NeurIPS 2023: rejected - 3 borderline accept and 1 reject
 
-+ **[Y-J. Ju](https://github.com/yeongjoonJu)**, G-H. Lee, J-H. Hong, and S-W. Lee, ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022 | **[code](https://github.com/yeongjoonJu/CFR-GAN)**
++ **[Y-J. Ju](https://github.com/yeongjoonJu)**, [J-H. Park](https://github.com/ian-jihoonpark), and S-W. Lee, "Class-conditional Feature Visualizations in Realistic Image Space for Neuron-based Debugging", KCC XAI Workshop, 2024 (oral).
+    > Oral speaker: Yeong-Joon Ju
 
-+ [J-H. Park](https://github.com/ian-jihoonpark), **[Y-J. Ju](https://github.com/yeongjoonJu)**, and S-W. Lee, ["Explaining Generative Diffusion Models via Visual Analysis for Interpretable Decision-Making Process"](https://github.com/ian-jihoonpark/X-Diffusion), Expert Systems with Applications, 2024 | **[code](https://github.com/ian-jihoonpark/X-Diffusion)**
++ **[Y-J. Ju](https://github.com/yeongjoonJu)**, G-H. Lee, J-H. Hong, and S-W. Lee, ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022. | **[code](https://github.com/yeongjoonJu/CFR-GAN)**
 
-+ [T-J. Woo](https://github.com/squiduu), W-J. Nam, **[Y-J. Ju](https://github.com/yeongjoonJu)**, and S-W. Lee, ["Compensatory Debiasing for Gender Imbalances in Language Models"](https://ieeexplore.ieee.org/document/10095658), ICASSP, 2023 (oral) | **[code](https://github.com/squiduu/guidebias)**
++ H-D. Kim, **[Y-J. Ju](https://github.com/yeongjoonJu)**, J-H. Hong, and S-W. Lee, ["CIRF: Importance of Related Features for Plausible Counterfactual Explanations"](https://www.sciencedirect.com/science/article/pii/S0020025524008880), Information Sciences, 2024.
+
++ [J-H. Park](https://github.com/ian-jihoonpark), **[Y-J. Ju](https://github.com/yeongjoonJu)**, and S-W. Lee, ["Explaining Generative Diffusion Models via Visual Analysis for Interpretable Decision-Making Process"](https://github.com/ian-jihoonpark/X-Diffusion), Expert Systems with Applications, 2024. | **[code](https://github.com/ian-jihoonpark/X-Diffusion)**
+
++ W-S. Jo, **[Y-J. Ju](https://github.com/yeongjoonJu)**, and S-W. Lee, "Enhancing Robustness of Over-Parameterized Models via Feature Reweighting Using Logit-Wise Mixup", ICPRAI, 2024 (oral).
+    > Oral speaker: Yeong-Joon Ju
+
++ [T-J. Woo](https://github.com/squiduu), W-J. Nam, **[Y-J. Ju](https://github.com/yeongjoonJu)**, and S-W. Lee, ["Compensatory Debiasing for Gender Imbalances in Language Models"](https://ieeexplore.ieee.org/document/10095658), ICASSP, 2023 (oral). | **[code](https://github.com/squiduu/guidebias)**
     > Oral speaker: Yeong-Joon Ju
 
 ### :computer: Research Projects (national or industry-academic projects)
