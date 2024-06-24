@@ -37,7 +37,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
     > Oral speaker: Yeong-Joon Ju
 
 + ["Compensatory Debiasing for Gender Imbalances in Language Models"](https://ieeexplore.ieee.org/document/10095658), ICASSP, 2023 (oral). | **[code](https://github.com/squiduu/guidebias)**
-    > [T-J. Woo](https://github.com/squiduu), W-J. Nam, **[Y-J. Ju](https://github.com/yeongjoonJu)**, and S-W. Lee
+    > Authors: [T-J. Woo](https://github.com/squiduu), W-J. Nam, **[Y-J. Ju](https://github.com/yeongjoonJu)**, and S-W. Lee
     > Oral speaker: Yeong-Joon Ju
 
 ### :computer: Research Projects (national or industry-academic projects)
