@@ -28,6 +28,9 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 + ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022. | **[code](https://github.com/yeongjoonJu/CFR-GAN)**
     > Authors: **[Y-J. Ju](https://github.com/yeongjoonJu)**, G-H. Lee, J-H. Hong, and S-W. Lee
 
++ "CPR: Mitigating Large Language Model Hallucinations with Curative Prompt Refinement", SMC, 2024.
+    > Authors: J-W. Shim, **[Y-J. Ju](https://github.com/yeongjoonJu)**, [J-H. Park](https://github.com/ian-jihoonpark), and S-W. Lee
+
 + ["CIRF: Importance of Related Features for Plausible Counterfactual Explanations"](https://www.sciencedirect.com/science/article/pii/S0020025524008880), Information Sciences, 2024.
     > Authors: H-D. Kim, **[Y-J. Ju](https://github.com/yeongjoonJu)**, J-H. Hong, and S-W. Lee
 
@@ -43,6 +46,8 @@ I'm researching efficient and effective in-context augmentation for multimodal l
     > Authors: [T-J. Woo](https://github.com/squiduu), W-J. Nam, **[Y-J. Ju](https://github.com/yeongjoonJu)**, and S-W. Lee
     
     > Oral speaker: Yeong-Joon Ju
+
+#### Co-authors: Seong-Whan Lee / Gun-Hee Lee / Woo-Jeoung Nam / Jung-Ho Hong / Ji-Hoon Park / Hee-Dong Kim / Tae-Jin Woo / Woo-Seok Jo / Jeong-Woo Shim
 
 ### :computer: Research Projects (national or industry-academic projects)
 
