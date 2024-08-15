@@ -20,7 +20,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
     
     > History -> NeurIPS 2023: rejected - 3 borderline accept and 1 reject
 
-+ "Class-conditional Feature Visualizations in Realistic Image Space for Neuron-based Debugging", KCC XAI Workshop, 2024 (oral).
++ ["뉴런 기반 디버깅을 위한 현실적인 이미지 공간에서의 클래스 조건부 특징 시각화(Class-conditional Feature Visualizations in Realistic Image Space for Neuron-based Debugging)"](https://xai.kaist.ac.kr/xai-workshop/2024/), KCC XAI Workshop, 2024 (oral).
     > Authors: **[Y-J. Ju](https://github.com/yeongjoonJu)**, [J-H. Park](https://github.com/ian-jihoonpark), and S-W. Lee
     
     > Oral speaker: Yeong-Joon Ju
