@@ -1,19 +1,11 @@
-<div align="center">
-    <h2 display="inline">Yeong-Joon Ju</h2>
-    <div align="center">
-        <a href="mailto:yj_ju@korea.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=FFFFFF"/></a>
-        <a href="https://wdprogrammer.tistory.com"><img src="https://img.shields.io/badge/-Tistory-orange"/></a>
-    </div>
-</div>
-
-### :smile: Profile
+## :smile: Profile
 
 :mortar_board: *Affiliation*: [Pattern Recognition and Machine Learning Lab](http://pr.korea.ac.kr) in Korea University (2020~)
 
 I'm researching efficient and effective in-context augmentation for multimodal large language models (MLLMs).
 > Research direction: face generation (vision) $\rightarrow$ dialogue generation (NLP) $\rightarrow$ neural network debugging (XAI) $\rightarrow$ :sun_with_face: **language modeling for multimodalities (NLP)**
 
-### :page_with_curl: Publications 
+## :page_with_curl: Publications 
 
 + ["Neuron-based Debugging Framework for Neural Networks Using Class-conditional Visualizations"](https://arxiv.org/abs/2310.07184), arXiv, 2023. | **[code](https://github.com/yeongjoonJu/NeuroInspect)**
     > Authors: **[Y-J. Ju](https://github.com/yeongjoonJu)**, [J-H. Park](https://github.com/ian-jihoonpark), and S-W. Lee
@@ -49,7 +41,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 #### Co-authors: Seong-Whan Lee / Gun-Hee Lee / Woo-Jeoung Nam / Jung-Ho Hong / Ji-Hoon Park / Hee-Dong Kim / Tae-Jin Woo / Woo-Seok Jo / Jeong-Woo Shim
 
-### :computer: Research Projects (national and industry-academic projects)
+## :computer: Research Projects (national and industry-academic projects)
 
 + Development of Core Technologies for Artificial General Intelligence based on Task-free Generalized Self-Awareness and Self-Learning (태스크에 무관한 자가 인지 및 학습 기반 범용 인공지능 핵심 기술 개발)
     - **Institution**: Institute of Information & communications Technology Planning & Evaluation (IITP, 정보통신기획평가원), Republic of Korea
@@ -77,7 +69,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
     - **Duration**: Jun. 2020 ~ Jun. 2021
     - **Role**: Research of facial dense alignment technique based on optical flow
 
-### :+1: Awards, etc.
+## :+1: Awards, etc.
 
 + Reviewer at IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
 
