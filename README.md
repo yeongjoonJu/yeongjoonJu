@@ -49,18 +49,33 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 #### Co-authors: Seong-Whan Lee / Gun-Hee Lee / Woo-Jeoung Nam / Jung-Ho Hong / Ji-Hoon Park / Hee-Dong Kim / Tae-Jin Woo / Woo-Seok Jo / Jeong-Woo Shim
 
-### :computer: Research Projects (national or industry-academic projects)
+### :computer: Research Projects (national and industry-academic projects)
 
-+ Research on AI-based large-scale language modeling techniques for `Military-related topic (hidden)`, Agency for Defense Development (ADD, 국방과학연구소), Korea (Aug. 2023 ~ Nov. 2023) `Team leader (practitioner)`
++ Development of Core Technologies for Artificial General Intelligence based on Task-free Generalized Self-Awareness and Self-Learning (태스크에 무관한 자가 인지 및 학습 기반 범용 인공지능 핵심 기술 개발)
+    - **Institution**: Institute of Information & communications Technology Planning & Evaluation (IITP, 정보통신기획평가원), Republic of Korea
+    - **Duration**: Jul. 2024 ~ present
+    - **Role**: Designing long-term research and development goals and content for AGI, and preparing a research and development plan for the project (과제 제안서 작성) / Research of self-improving multimodal agents
 
-+ Development of an AI assistant for elementary education teacher based on a large language model (LLM), i-Scream Edu (아이스크림에듀), Korea (May 2023 ~ Jan. 2024) `Team leader (practitioner)`
-    > Research of LLM for NLG 
++ Research on AI-based large-scale language modeling techniques for `military-related topic (hidden)`
+    - **Institution**: Agency for Defense Development (ADD, 국방과학연구소), Republic of Korea
+    - **Duration**: Aug. 2023 ~ Nov. 2023
+    - **Role**: `Team leader (practitioner)`
 
-+ Development of Artificial Intelligence Technology for Personalized Plug-and-Play Explanation and Verification of Explanation, Institute of Information & communications Technology Planning & Evaluation (IITP), Korea (Jun. 2022 ~ Dec. 2023) `Team leader (practitioner)`
-    > Research of plug-and-play debugging for the decision-making process of neural networks
++ Development of an AI assistant for elementary education teacher based on a large language model (대규모 언어 모델 기반 초등 교육 교사 어시스턴트 개발)
+    - **Institution**: i-Scream Edu (아이스크림에듀), Republic of Korea
+    - **Duration**: May 2023 ~ Jan. 2024
+    - **Role**: `Team leader (practitioner)` / Development of LLM-based assistant for primary education teachers and elementary students
 
-+ Development of facial skin change analysis and visualization techniques, Samsung Electronics (삼성전자), Korea (Jun. 2020 ~ Jun. 2021)
-    > Research of facial dense alignment technique based on optical flow 
++ Development of Artificial Intelligence Technology for Personalized Plug-and-Play Explanation and Verification of Explanation (플러그앤플레이 방식으로 설명가능성을 제공하는 인공지능 기술 개발 및 인공지능 시스템에 대한 설명 제공 검증)
+    - **Institution**: Institute of Information & communications Technology Planning & Evaluation (IITP, 정보통신기획평가원), Republic of Korea
+    - **Duration**: Jun. 2022 ~ Dec. 2023
+    - **Role**: `Team leader (practitioner)` / Research of plug-and-play debugging for the decision-making process of neural networks
+    
+
++ Development of facial skin change analysis and visualization techniques (얼굴 피부 변화 분석 및 시각화 기술 개발)
+    - **Institution**: Samsung Electronics (삼성전자), Republic of Korea
+    - **Duration**: Jun. 2020 ~ Jun. 2021
+    - **Role**: Research of facial dense alignment technique based on optical flow
 
 ### :+1: Awards, etc.
 
