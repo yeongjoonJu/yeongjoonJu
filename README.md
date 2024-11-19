@@ -7,8 +7,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 ## :page_with_curl: Publications 
 
-+ ["Enhancing Multimodal Query Representation via Visual Dialogues for End-to-End Knowledge Retrieval"](https://arxiv.org/abs/2411.08334), arXiv (Under review in AAAI 2025), 2024.
-    + **[code](https://github.com/yeongjoonJu/Ret_XKnow)** :white_check_mark:
++ [**[code](https://github.com/yeongjoonJu/Ret_XKnow)** :white_check_mark:] ["Enhancing Multimodal Query Representation via Visual Dialogues for End-to-End Knowledge Retrieval"](https://arxiv.org/abs/2411.08334), arXiv (Under review in AAAI 2025), 2024.
     > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [H.-J. Kim](https://github.com/Dotori-HJ), and S.-W. Lee
 
 + ["Neuron-based Debugging Framework for Neural Networks Using Class-conditional Visualizations"](https://arxiv.org/abs/2310.07184), arXiv, 2023.
