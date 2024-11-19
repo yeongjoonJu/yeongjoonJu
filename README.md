@@ -10,8 +10,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 + [**[code](https://github.com/yeongjoonJu/Ret_XKnow)** :white_check_mark:] ["Enhancing Multimodal Query Representation via Visual Dialogues for End-to-End Knowledge Retrieval"](https://arxiv.org/abs/2411.08334), arXiv (Under review in AAAI 2025), 2024.
     > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [H.-J. Kim](https://github.com/Dotori-HJ), and S.-W. Lee
 
-+ ["Neuron-based Debugging Framework for Neural Networks Using Class-conditional Visualizations"](https://arxiv.org/abs/2310.07184), arXiv, 2023.
-    + **[code](https://github.com/yeongjoonJu/NeuroInspect)** :white_check_mark:
++ [**[code](https://github.com/yeongjoonJu/NeuroInspect)** :white_check_mark:] ["Neuron-based Debugging Framework for Neural Networks Using Class-conditional Visualizations"](https://arxiv.org/abs/2310.07184), arXiv, 2023.
     > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [J.-H. Park](https://github.com/ian-jihoonpark), and S.-W. Lee
     
     > History -> NeurIPS 2023: rejected - 3 borderline accept and 1 reject
@@ -21,8 +20,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
     
     > Oral speaker: Yeong-Joon Ju
 
-+ ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022.
-    + **[code](https://github.com/yeongjoonJu/CFR-GAN)** :white_check_mark:
++ [**[code](https://github.com/yeongjoonJu/CFR-GAN)** :white_check_mark:] ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022.
     > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, G.-H. Lee, J.-H. Hong, and S.-W. Lee
 
 + "CPR: Mitigating Large Language Model Hallucinations with Curative Prompt Refinement", SMC, 2024.
@@ -31,8 +29,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 + ["CIRF: Importance of Related Features for Plausible Counterfactual Explanations"](https://www.sciencedirect.com/science/article/pii/S0020025524008880), Information Sciences, 2024.
     > Authors: H.-D. Kim, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, J.-H. Hong, and S.-W. Lee
 
-+ ["Explaining Generative Diffusion Models via Visual Analysis for Interpretable Decision-Making Process"](https://github.com/ian-jihoonpark/X-Diffusion), Expert Systems with Applications, 2024.
-    + **[code](https://github.com/ian-jihoonpark/X-Diffusion)** :white_check_mark:
++ [**[code](https://github.com/ian-jihoonpark/X-Diffusion)** :white_check_mark:] ["Explaining Generative Diffusion Models via Visual Analysis for Interpretable Decision-Making Process"](https://github.com/ian-jihoonpark/X-Diffusion), Expert Systems with Applications, 2024.
     > Authors: [J.-H. Park](https://github.com/ian-jihoonpark), **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
 
 + "Enhancing Robustness of Over-Parameterized Models via Feature Reweighting Using Logit-Wise Mixup", ICPRAI, 2024 (oral).
@@ -40,8 +37,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
     
     > Oral speaker: Yeong-Joon Ju
 
-+ ["Compensatory Debiasing for Gender Imbalances in Language Models"](https://ieeexplore.ieee.org/document/10095658), ICASSP, 2023 (oral).
-    + **[code](https://github.com/squiduu/guidebias)** :white_check_mark:
++ [**[code](https://github.com/squiduu/guidebias)** :white_check_mark:] ["Compensatory Debiasing for Gender Imbalances in Language Models"](https://ieeexplore.ieee.org/document/10095658), ICASSP, 2023 (oral). 
     > Authors: [T.-J. Woo](https://github.com/squiduu), W-J. Nam, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
     
     > Oral speaker: Yeong-Joon Ju
