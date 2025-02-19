@@ -46,7 +46,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 ## :computer: Research Projects (national and industry-academic projects)
 
-+ A.I. research on analysis technology for `military-related topic (hidden)` (A.I 기반 `military-related topic (hidden)` 분석 기술 연구)
++ A.I. research on analysis technology for `military-related topic` (A.I 기반 `military-related topic` 분석 기술 연구)
     - **Institution**: Agency for Defense Development (ADD, 국방과학연구소), Republic of Korea
     - **Duration**: Dec. 2024 ~ present
     - **Role**: `Team leader (practitioner)` / Development of RAG tech to generate responses by searching for expertise necessary to perform tasks
