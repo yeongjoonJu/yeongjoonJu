@@ -23,7 +23,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 + [**[code](https://github.com/yeongjoonJu/CFR-GAN)** :white_check_mark:] ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022.
     > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, G.-H. Lee, J.-H. Hong, and S.-W. Lee
 
-+ "CPR: Mitigating Large Language Model Hallucinations with Curative Prompt Refinement", SMC, 2024.
++ ["CPR: Mitigating Large Language Model Hallucinations with Curative Prompt Refinement"](https://ieeexplore.ieee.org/abstract/document/10830938), SMC, 2024.
     > Authors: J.-W. Shim, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [J.-H. Park](https://github.com/ian-jihoonpark), and S.-W. Lee
 
 + ["CIRF: Importance of Related Features for Plausible Counterfactual Explanations"](https://www.sciencedirect.com/science/article/pii/S0020025524008880), Information Sciences, 2024.
@@ -32,7 +32,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 + [**[code](https://github.com/ian-jihoonpark/X-Diffusion)** :white_check_mark:] ["Explaining Generative Diffusion Models via Visual Analysis for Interpretable Decision-Making Process"](https://github.com/ian-jihoonpark/X-Diffusion), Expert Systems with Applications, 2024.
     > Authors: [J.-H. Park](https://github.com/ian-jihoonpark), **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
 
-+ "Enhancing Robustness of Over-Parameterized Models via Feature Reweighting Using Logit-Wise Mixup", ICPRAI, 2024 (oral).
++ ["Enhancing Robustness of Over-Parameterized Models via Feature Reweighting Using Logit-Wise Mixup"](https://link.springer.com/chapter/10.1007/978-981-97-8702-9_22), ICPRAI, 2024 (oral).
     > Authors: W.-S. Jo, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
     
     > Oral speaker: Yeong-Joon Ju
@@ -42,9 +42,14 @@ I'm researching efficient and effective in-context augmentation for multimodal l
     
     > Oral speaker: Yeong-Joon Ju
 
-#### Co-authors: Seong-Whan Lee / Gun-Hee Lee / Woo-Jeoung Nam / Jung-Ho Hong / Ji-Hoon Park / Hee-Dong Kim / Tae-Jin Woo / Woo-Seok Jo / Jeong-Woo Shim
+#### Co-authors: Seong-Whan Lee / Gun-Hee Lee / Woo-Jeoung Nam / Jung-Ho Hong / Ji-Hoon Park / Hee-Dong Kim / Tae-Jin Woo / Woo-Seok Jo / Jeong-Woo Shim ...
 
 ## :computer: Research Projects (national and industry-academic projects)
+
++ A.I. research on analysis technology for `military-related topic (hidden)` (A.I 기반 `military-related topic (hidden)` 분석 기술 연구)
+    - **Institution**: Agency for Defense Development (ADD, 국방과학연구소), Republic of Korea
+    - **Duration**: Dec. 2024 ~ present
+    - **Role**: `Team leader (practitioner)` / Development of RAG tech to generate responses by searching for expertise necessary to perform tasks
 
 + Development of Core Technologies for Artificial General Intelligence based on Task-free Generalized Self-Awareness and Self-Learning (태스크에 무관한 자가 인지 및 학습 기반 범용 인공지능 핵심 기술 개발)
     - **Institution**: Institute of Information & communications Technology Planning & Evaluation (IITP, 정보통신기획평가원), Republic of Korea
