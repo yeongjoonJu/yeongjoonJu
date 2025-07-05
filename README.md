@@ -11,6 +11,12 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 "](https://arxiv.org/abs/2411.08334), Findings of ACL, 2025.
     > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [H.-J. Kim](https://github.com/Dotori-HJ), and S.-W. Lee
 
++ "대규모 언어모델의 비용 효율적 텍스트 생성을 위한 계층적 계단식 구조(Hierarchical Cascading for Cost-Efficient Text Generation with Large Language Models)", KCC, 2025.
+    > Authors: W.-C. Kim, K.-W. Roh, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, H. Nam, and S.-W. Lee
+
++ "대형 언어 모델의 환각현상 완화를 위한 다단계 프롬프트 정제(Multi-stage Prompt Refinement for Mitigating Hallucinations in Large Language Models)", 한국군사과학기술학회 종합학술대회, 2025.
+    > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [J.-H. Park](https://github.com/ian-jihoonpark), W.-C. Kim, H. Nam, and S.-W. Lee  
+
 + [**[code](https://github.com/yeongjoonJu/NeuroInspect)** :white_check_mark:] ["Neuron-based Debugging Framework for Neural Networks Using Class-conditional Visualizations"](https://arxiv.org/abs/2310.07184), arXiv, 2023.
     > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [J.-H. Park](https://github.com/ian-jihoonpark), and S.-W. Lee
     
@@ -18,8 +24,6 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 + ["뉴런 기반 디버깅을 위한 현실적인 이미지 공간에서의 클래스 조건부 특징 시각화(Class-conditional Feature Visualizations in Realistic Image Space for Neuron-based Debugging)"](https://xai.kaist.ac.kr/xai-workshop/2024/), KCC XAI Workshop, 2024 (oral).
     > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [J.-H. Park](https://github.com/ian-jihoonpark), and S.-W. Lee
-    
-    > Oral speaker: Yeong-Joon Ju
 
 + [**[code](https://github.com/yeongjoonJu/CFR-GAN)** :white_check_mark:] ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022.
     > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, G.-H. Lee, J.-H. Hong, and S.-W. Lee
@@ -36,12 +40,8 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 + ["Enhancing Robustness of Over-Parameterized Models via Feature Reweighting Using Logit-Wise Mixup"](https://link.springer.com/chapter/10.1007/978-981-97-8702-9_22), ICPRAI, 2024 (oral).
     > Authors: W.-S. Jo, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
     
-    > Oral speaker: Yeong-Joon Ju
-
 + [**[code](https://github.com/squiduu/guidebias)** :white_check_mark:] ["Compensatory Debiasing for Gender Imbalances in Language Models"](https://ieeexplore.ieee.org/document/10095658), ICASSP, 2023 (oral). 
     > Authors: [T.-J. Woo](https://github.com/squiduu), W-J. Nam, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
-    
-    > Oral speaker: Yeong-Joon Ju
 
 #### Co-authors: Seong-Whan Lee / Gun-Hee Lee / Woo-Jeoung Nam / Jung-Ho Hong / Ji-Hoon Park / Hee-Dong Kim / Tae-Jin Woo / Woo-Seok Jo / Jeong-Woo Shim ...
 
