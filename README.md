@@ -5,7 +5,10 @@
 I'm researching efficient and effective in-context augmentation for multimodal large language models (MLLMs).
 > Research direction: face generation (vision) $\rightarrow$ dialogue generation (NLP) $\rightarrow$ neural network debugging (XAI) $\rightarrow$ :sun_with_face: **language modeling for multimodalities (NLP)**
 
-## :page_with_curl: Publications 
+## :page_with_curl: Publications and Pre-Print
+
++ [**[code](https://github.com/yeongjoonJu/Gen2Embed)** :white_check_mark:] ["From Generator to Embedder: Harnessing Innate Abilities of Multimodal LLMs via Building Zero-Shot Discriminative Embedding Model"](https://arxiv.org/abs/2508.00955), arXiv, 2025.
+    > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
 
 + [**[code](https://github.com/yeongjoonJu/MIRe)** :white_check_mark:] ["MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval
 "](https://arxiv.org/abs/2411.08334), Findings of ACL, 2025.
