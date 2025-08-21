@@ -14,6 +14,9 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 "](https://arxiv.org/abs/2411.08334), Findings of ACL, 2025.
     > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [H.-J. Kim](https://github.com/Dotori-HJ), and S.-W. Lee
 
++ "XLQA: A Benchmark for Locale-Aware Multilingual Open-Domain Question Answering," EMNLP, 2025.
+    > Authors: [K. Roh](https://github.com/ro-ko), **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
+
 + "대규모 언어모델의 비용 효율적 텍스트 생성을 위한 계층적 계단식 구조(Hierarchical Cascading for Cost-Efficient Text Generation with Large Language Models)", KCC, 2025.
     > Authors: W.-C. Kim, K.-W. Roh, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, H. Nam, and S.-W. Lee
 
@@ -34,7 +37,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 + ["CPR: Mitigating Large Language Model Hallucinations with Curative Prompt Refinement"](https://ieeexplore.ieee.org/abstract/document/10830938), SMC, 2024.
     > Authors: J.-W. Shim, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [J.-H. Park](https://github.com/ian-jihoonpark), and S.-W. Lee
 
-+ ["CIRF: Importance of Related Features for Plausible Counterfactual Explanations"](https://www.sciencedirect.com/science/article/pii/S0020025524008880), Information Sciences, 2024.
++ [**[code](https://github.com/Poongi/CIRF_CFE)** :white_check_mark:] ["CIRF: Importance of Related Features for Plausible Counterfactual Explanations"](https://www.sciencedirect.com/science/article/pii/S0020025524008880), Information Sciences, 2024.
     > Authors: H.-D. Kim, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, J.-H. Hong, and S.-W. Lee
 
 + [**[code](https://github.com/ian-jihoonpark/X-Diffusion)** :white_check_mark:] ["Explaining Generative Diffusion Models via Visual Analysis for Interpretable Decision-Making Process"](https://github.com/ian-jihoonpark/X-Diffusion), Expert Systems with Applications, 2024.
