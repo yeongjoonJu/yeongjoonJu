@@ -17,7 +17,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 + "XLQA: A Benchmark for Locale-Aware Multilingual Open-Domain Question Answering," EMNLP, 2025.
     > Authors: [K. Roh](https://github.com/ro-ko), **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
 
-+ "대규모 언어모델의 비용 효율적 텍스트 생성을 위한 계층적 계단식 구조(Hierarchical Cascading for Cost-Efficient Text Generation with Large Language Models)", KCC, 2025.
++ "[대규모 언어모델의 비용 효율적 텍스트 생성을 위한 계층적 계단식 구조(Hierarchical Cascading for Cost-Efficient Text Generation with Large Language Models)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318396)", 한국정보과학회, 2025.
     > Authors: W.-C. Kim, K.-W. Roh, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, H. Nam, and S.-W. Lee
 
 + "대형 언어 모델의 환각현상 완화를 위한 다단계 프롬프트 정제(Multi-stage Prompt Refinement for Mitigating Hallucinations in Large Language Models)", 한국군사과학기술학회 종합학술대회, 2025.
