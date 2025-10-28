@@ -13,7 +13,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 + [**[code](https://github.com/yeongjoonJu/MIRe)** :white_check_mark:] "[MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval](https://aclanthology.org/2025.findings-acl.279/)," Findings of ACL, 2025.
     > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [H.-J. Kim](https://github.com/Dotori-HJ), and S.-W. Lee
 
-+ "[XLQA: A Benchmark for Locale-Aware Multilingual Open-Domain Question Answering](https://arxiv.org/abs/2508.16139)," EMNLP, 2025.
++ [**[code](https://github.com/ro-ko/XLQA)** :white_check_mark:]"[XLQA: A Benchmark for Locale-Aware Multilingual Open-Domain Question Answering](https://arxiv.org/abs/2508.16139)," EMNLP, 2025.
     > Authors: [K. Roh](https://github.com/ro-ko), **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
 
 + "[대규모 언어모델의 비용 효율적 텍스트 생성을 위한 계층적 계단식 구조(Hierarchical Cascading for Cost-Efficient Text Generation with Large Language Models)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318396)", 한국정보과학회(KCC), 2025.
