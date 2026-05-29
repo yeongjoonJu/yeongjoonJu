@@ -7,7 +7,10 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 ## :page_with_curl: Publications and Pre-Print
 
-+ [**[code](https://github.com/yeongjoonJu/Gen2Embed)** :white_check_mark:] "[From Generator to Embedder: Harnessing Innate Abilities of Multimodal LLMs via Building Zero-Shot Discriminative Embedding Model](https://arxiv.org/abs/2508.00955)," arXiv, 2025.
++ [**[code](https://github.com/yeongjoonJu/RefWalk)** :white_check_mark:] "[Citation-Closure Retrieval and Per-Rule Attribution for Real-World Regulatory Compliance Question Answering](https://arxiv.org/abs/2605.29742)," arXiv, 2026.
+    > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
+    > 
++ [**[code](https://github.com/yeongjoonJu/Gen2Embed)** :white_check_mark:] "[From Generator to Embedder: Harnessing Innate Abilities of Multimodal LLMs via Building Zero-Shot Discriminative Embedding Model](https://arxiv.org/abs/2508.00955)," Accepted to IEEE Transactions on Multimedia, 2026.
     > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
 
 + [**[code](https://github.com/yeongjoonJu/MIRe)** :white_check_mark:] "[MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval](https://aclanthology.org/2025.findings-acl.279/)," Findings of ACL, 2025.
