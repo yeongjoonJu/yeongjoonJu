@@ -8,56 +8,39 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 ## :page_with_curl: Publications and Pre-Print
 
 + [**[code](https://github.com/yeongjoonJu/RefWalk)** :white_check_mark:] "[Citation-Closure Retrieval and Per-Rule Attribution for Real-World Regulatory Compliance Question Answering](https://arxiv.org/abs/2605.29742)," arXiv, 2026.
-    > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
-    > 
+
 + [**[code](https://github.com/yeongjoonJu/Gen2Embed)** :white_check_mark:] "[From Generator to Embedder: Harnessing Innate Abilities of Multimodal LLMs via Building Zero-Shot Discriminative Embedding Model](https://arxiv.org/abs/2508.00955)," Accepted to IEEE Transactions on Multimedia, 2026.
-    > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
 
 + [**[code](https://github.com/yeongjoonJu/MIRe)** :white_check_mark:] "[MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval](https://aclanthology.org/2025.findings-acl.279/)," Findings of ACL, 2025.
-    > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [H.-J. Kim](https://github.com/Dotori-HJ), and S.-W. Lee
 
 + [**[code](https://github.com/ro-ko/XLQA)** :white_check_mark:] "[XLQA: A Benchmark for Locale-Aware Multilingual Open-Domain Question Answering](https://arxiv.org/abs/2508.16139)," EMNLP, 2025.
-    > Authors: [K. Roh](https://github.com/ro-ko), **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
 
 + "[대규모 언어모델의 비용 효율적 텍스트 생성을 위한 계층적 계단식 구조(Hierarchical Cascading for Cost-Efficient Text Generation with Large Language Models)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318396)", 한국정보과학회(KCC), 2025.
-    > Authors: W.-C. Kim, K.-W. Roh, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, H. Nam, and S.-W. Lee
 
-+ "대형 언어 모델의 환각현상 완화를 위한 다단계 프롬프트 정제(Multi-stage Prompt Refinement for Mitigating Hallucinations in Large Language Models)", 한국군사과학기술학회 종합학술대회, 2025.
-    > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [J.-H. Park](https://github.com/ian-jihoonpark), W.-C. Kim, H. Nam, and S.-W. Lee  
++ "대형 언어 모델의 환각현상 완화를 위한 다단계 프롬프트 정제(Multi-stage Prompt Refinement for Mitigating Hallucinations in Large Language Models)", 한국군사과학기술학회 종합학술대회, 2025. 
 
 + [**[code](https://github.com/yeongjoonJu/NeuroInspect)** :white_check_mark:] ["Neuron-based Debugging Framework for Neural Networks Using Class-conditional Visualizations"](https://arxiv.org/abs/2310.07184), arXiv, 2023.
-    > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [J.-H. Park](https://github.com/ian-jihoonpark), and S.-W. Lee
-    
     > History -> NeurIPS 2023: rejected - 3 borderline accept and 1 reject
 
 + ["뉴런 기반 디버깅을 위한 현실적인 이미지 공간에서의 클래스 조건부 특징 시각화(Class-conditional Feature Visualizations in Realistic Image Space for Neuron-based Debugging)"](https://xai.kaist.ac.kr/xai-workshop/2024/), 한국정보과학회(KCC) XAI Workshop, 2024 (oral).
-    > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [J.-H. Park](https://github.com/ian-jihoonpark), and S.-W. Lee
 
 + [**[code](https://github.com/yeongjoonJu/CFR-GAN)** :white_check_mark:] ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022.
-    > Authors: **[Y.-J. Ju](https://github.com/yeongjoonJu)**, G.-H. Lee, J.-H. Hong, and S.-W. Lee
 
 + ["CPR: Mitigating Large Language Model Hallucinations with Curative Prompt Refinement"](https://ieeexplore.ieee.org/abstract/document/10830938), SMC, 2024.
-    > Authors: J.-W. Shim, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, [J.-H. Park](https://github.com/ian-jihoonpark), and S.-W. Lee
 
 + [**[code](https://github.com/Poongi/CIRF_CFE)** :white_check_mark:] ["CIRF: Importance of Related Features for Plausible Counterfactual Explanations"](https://www.sciencedirect.com/science/article/pii/S0020025524008880), Information Sciences, 2024.
-    > Authors: H.-D. Kim, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, J.-H. Hong, and S.-W. Lee
 
 + [**[code](https://github.com/ian-jihoonpark/X-Diffusion)** :white_check_mark:] ["Explaining Generative Diffusion Models via Visual Analysis for Interpretable Decision-Making Process"](https://github.com/ian-jihoonpark/X-Diffusion), Expert Systems with Applications, 2024.
-    > Authors: [J.-H. Park](https://github.com/ian-jihoonpark), **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
 
 + ["Enhancing Robustness of Over-Parameterized Models via Feature Reweighting Using Logit-Wise Mixup"](https://link.springer.com/chapter/10.1007/978-981-97-8702-9_22), ICPRAI, 2024 (oral).
-    > Authors: W.-S. Jo, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
     
 + [**[code](https://github.com/squiduu/guidebias)** :white_check_mark:] ["Compensatory Debiasing for Gender Imbalances in Language Models"](https://ieeexplore.ieee.org/document/10095658), ICASSP, 2023 (oral). 
-    > Authors: [T.-J. Woo](https://github.com/squiduu), W-J. Nam, **[Y.-J. Ju](https://github.com/yeongjoonJu)**, and S.-W. Lee
-
-#### Co-authors: Seong-Whan Lee / Gun-Hee Lee / Woo-Jeoung Nam / Jung-Ho Hong / Ji-Hoon Park / Hee-Dong Kim / Tae-Jin Woo / Woo-Seok Jo / Jeong-Woo Shim ...
 
 ## :computer: Research Projects (national and industry-academic projects)
 
 + A.I. research on analysis technology for `military-related topic` (A.I 기반 `military-related topic` 분석 기술 연구)
     - **Institution**: Agency for Defense Development (ADD, 국방과학연구소), Republic of Korea
-    - **Duration**: Dec. 2024 ~ present
+    - **Duration**: Dec. 2024 ~ Jan. 2026
     - **Role**: `Team leader (practitioner)` / Development of RAG tech to generate responses by searching for expertise necessary to perform tasks
 
 + Development of Core Technologies for Artificial General Intelligence based on Task-free Generalized Self-Awareness and Self-Learning (태스크에 무관한 자가 인지 및 학습 기반 범용 인공지능 핵심 기술 개발)
@@ -84,7 +67,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 + Development of facial skin change analysis and visualization techniques (얼굴 피부 변화 분석 및 시각화 기술 개발)
     - **Institution**: Samsung Electronics (삼성전자), Republic of Korea
     - **Duration**: Jun. 2020 ~ Jun. 2021
-    - **Role**: Research of facial dense alignment technique based on optical flow
+    - **Role**: Research of a facial dense alignment technique based on optical flow
 
 ## :+1: Awards, etc.
 
