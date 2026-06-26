@@ -11,7 +11,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 + [**[code](https://github.com/yeongjoonJu/Gen2Embed)** :white_check_mark:] "[From Generator to Embedder: Harnessing Innate Abilities of Multimodal LLMs via Building Zero-Shot Discriminative Embedding Model](https://arxiv.org/abs/2508.00955)," Accepted to IEEE Transactions on Multimedia (TMM), 2026.
 
-+ [**[code](https://github.com/yeongjoonJu/MIRe)** :white_check_mark:] "[MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval](https://aclanthology.org/2025.findings-acl.279/)," Findings of ACL, 2025.
++ [**[code](https://github.com/yeongjoonJu/MIRe)** :white_check_mark:] "[MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval](https://aclanthology.org/2025.findings-acl.279/)," ACL Findings, 2025.
 
 + [**[code](https://github.com/ro-ko/XLQA)** :white_check_mark:] "[XLQA: A Benchmark for Locale-Aware Multilingual Open-Domain Question Answering](https://arxiv.org/abs/2508.16139)," EMNLP, 2025.
 
@@ -20,7 +20,6 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 + "대형 언어 모델의 환각현상 완화를 위한 다단계 프롬프트 정제(Multi-stage Prompt Refinement for Mitigating Hallucinations in Large Language Models)", 한국군사과학기술학회 종합학술대회, 2025. 
 
 + [**[code](https://github.com/yeongjoonJu/NeuroInspect)** :white_check_mark:] ["Neuron-based Debugging Framework for Neural Networks Using Class-conditional Visualizations"](https://arxiv.org/abs/2310.07184), arXiv, 2023.
-    > History -> NeurIPS 2023: rejected - 3 borderline accept and 1 reject
 
 + ["뉴런 기반 디버깅을 위한 현실적인 이미지 공간에서의 클래스 조건부 특징 시각화(Class-conditional Feature Visualizations in Realistic Image Space for Neuron-based Debugging)"](https://xai.kaist.ac.kr/xai-workshop/2024/), 한국정보과학회(KCC) XAI Workshop, 2024 (oral).
 
@@ -48,7 +47,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
     - **Duration**: Jul. 2024 ~ present
     - **Role**: Designing long-term research and development goals and content for AGI, and preparing a research and development plan for the project (과제 제안서 작성) / Research of self-improving multimodal agents
 
-+ Research on AI-based large-scale language modeling techniques for `military-related topic (hidden)`
++ Research on AI-based large-scale language modeling techniques for `military-related topic (undisclosed)`
     - **Institution**: Agency for Defense Development (ADD, 국방과학연구소), Republic of Korea
     - **Duration**: Aug. 2023 ~ Nov. 2023
     - **Role**: `Team leader (practitioner)`
