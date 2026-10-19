@@ -7,11 +7,11 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 ## :page_with_curl: Publications and Pre-Print
 
-+ [**[code](https://github.com/yeongjoonJu/RefWalk)** :white_check_mark:] "[Citation-Closure Retrieval and Per-Rule Attribution for Real-World Regulatory Compliance Question Answering](https://arxiv.org/abs/2605.29742)," EMNLP Findings, 2026.
++ [**[code](https://github.com/yeongjoonJu/RefWalk)** :white_check_mark:] "[Citation-Closure Retrieval and Per-Rule Attribution for Real-World Regulatory Compliance Question Answering](https://arxiv.org/abs/2605.29742)," EMNLP Findings, 2026. :one:
 
-+ [**[code](https://github.com/yeongjoonJu/Gen2Embed)** :white_check_mark:] "[From Generator to Embedder: Harnessing Innate Abilities of Multimodal LLMs via Building Zero-Shot Discriminative Embedding Model](https://arxiv.org/abs/2508.00955)," Accepted to IEEE Transactions on Multimedia (TMM), 2026.
++ [**[code](https://github.com/yeongjoonJu/Gen2Embed)** :white_check_mark:] "[From Generator to Embedder: Harnessing Innate Abilities of Multimodal LLMs via Building Zero-Shot Discriminative Embedding Model](https://arxiv.org/abs/2508.00955)," IEEE Transactions on Multimedia (TMM), 2026. :one:
 
-+ [**[code](https://github.com/yeongjoonJu/MIRe)** :white_check_mark:] "[MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval](https://aclanthology.org/2025.findings-acl.279/)," ACL Findings, 2025.
++ [**[code](https://github.com/yeongjoonJu/MIRe)** :white_check_mark:] "[MIRe: Enhancing Multimodal Queries Representation via Fusion-Free Modality Interaction for Multimodal Retrieval](https://aclanthology.org/2025.findings-acl.279/)," ACL Findings, 2025. :one:
 
 + [**[code](https://github.com/ro-ko/XLQA)** :white_check_mark:] "[XLQA: A Benchmark for Locale-Aware Multilingual Open-Domain Question Answering](https://arxiv.org/abs/2508.16139)," EMNLP, 2025.
 
@@ -27,7 +27,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
     
 + [**[code](https://github.com/squiduu/guidebias)** :white_check_mark:] ["Compensatory Debiasing for Gender Imbalances in Language Models"](https://ieeexplore.ieee.org/document/10095658), ICASSP, 2023 (oral).
 
-+ + [**[code](https://github.com/yeongjoonJu/CFR-GAN)** :white_check_mark:] ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022.
++ [**[code](https://github.com/yeongjoonJu/CFR-GAN)** :white_check_mark:] ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022. :one:
 
 ## :computer: Research Projects (national and industry-academic projects)
 
