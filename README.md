@@ -17,8 +17,6 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 + [**[code](https://github.com/yeongjoonJu/NeuroInspect)** :white_check_mark:] ["Neuron-based Debugging Framework for Neural Networks Using Class-conditional Visualizations"](https://arxiv.org/abs/2310.07184), arXiv, 2023.
 
-+ [**[code](https://github.com/yeongjoonJu/CFR-GAN)** :white_check_mark:] ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022.
-
 + ["CPR: Mitigating Large Language Model Hallucinations with Curative Prompt Refinement"](https://ieeexplore.ieee.org/abstract/document/10830938), SMC, 2024.
 
 + [**[code](https://github.com/Poongi/CIRF_CFE)** :white_check_mark:] ["CIRF: Importance of Related Features for Plausible Counterfactual Explanations"](https://www.sciencedirect.com/science/article/pii/S0020025524008880), Information Sciences, 2024.
@@ -27,7 +25,9 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 + ["Enhancing Robustness of Over-Parameterized Models via Feature Reweighting Using Logit-Wise Mixup"](https://link.springer.com/chapter/10.1007/978-981-97-8702-9_22), ICPRAI, 2024 (oral).
     
-+ [**[code](https://github.com/squiduu/guidebias)** :white_check_mark:] ["Compensatory Debiasing for Gender Imbalances in Language Models"](https://ieeexplore.ieee.org/document/10095658), ICASSP, 2023 (oral). 
++ [**[code](https://github.com/squiduu/guidebias)** :white_check_mark:] ["Compensatory Debiasing for Gender Imbalances in Language Models"](https://ieeexplore.ieee.org/document/10095658), ICASSP, 2023 (oral).
+
++ + [**[code](https://github.com/yeongjoonJu/CFR-GAN)** :white_check_mark:] ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022.
 
 ## :computer: Research Projects (national and industry-academic projects)
 
