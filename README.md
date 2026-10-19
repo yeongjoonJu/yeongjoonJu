@@ -70,9 +70,12 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 ## :+1: Awards, etc.
 
-+ Reviewer at European Computer Vision Association (ECCV), 2026
-+ Reviewer at IEEE Transactions on Image Processing (TIP), 2025
-+ Reviewer at IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
++ Reviewer at
+  - ACL ARR 2026 October, 2026
+  - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026
+  - European Computer Vision Association (ECCV), 2026
+  - IEEE Transactions on Image Processing (TIP), 2025
+  - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2024
 + Grand Prize in The 6th SW·AI Hackerton, Sejong University, Korea (Jul. 2019)
   > Project: Android application that manages seat status for discussion lounge / Development of seat status detection model and API based on Flask (Jul. 2019 ~ Jul. 2019)
 
