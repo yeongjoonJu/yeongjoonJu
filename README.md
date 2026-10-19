@@ -15,13 +15,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 
 + [**[code](https://github.com/ro-ko/XLQA)** :white_check_mark:] "[XLQA: A Benchmark for Locale-Aware Multilingual Open-Domain Question Answering](https://arxiv.org/abs/2508.16139)," EMNLP, 2025.
 
-+ "[대규모 언어모델의 비용 효율적 텍스트 생성을 위한 계층적 계단식 구조(Hierarchical Cascading for Cost-Efficient Text Generation with Large Language Models)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12318396)", 한국정보과학회(KCC), 2025.
-
-+ "대형 언어 모델의 환각현상 완화를 위한 다단계 프롬프트 정제(Multi-stage Prompt Refinement for Mitigating Hallucinations in Large Language Models)", 한국군사과학기술학회 종합학술대회, 2025. 
-
 + [**[code](https://github.com/yeongjoonJu/NeuroInspect)** :white_check_mark:] ["Neuron-based Debugging Framework for Neural Networks Using Class-conditional Visualizations"](https://arxiv.org/abs/2310.07184), arXiv, 2023.
-
-+ ["뉴런 기반 디버깅을 위한 현실적인 이미지 공간에서의 클래스 조건부 특징 시각화(Class-conditional Feature Visualizations in Realistic Image Space for Neuron-based Debugging)"](https://xai.kaist.ac.kr/xai-workshop/2024/), 한국정보과학회(KCC) XAI Workshop, 2024 (oral).
 
 + [**[code](https://github.com/yeongjoonJu/CFR-GAN)** :white_check_mark:] ["Complete Face Recovery GAN: Unsupervised Joint Face Rotation and De-Occlusion from a Single-View Image"](https://openaccess.thecvf.com/content/WACV2022/html/Ju_Complete_Face_Recovery_GAN_Unsupervised_Joint_Face_Rotation_and_De-Occlusion_WACV_2022_paper.html), WACV, 2022.
 
