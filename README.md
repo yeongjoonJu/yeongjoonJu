@@ -65,7 +65,7 @@ I'm researching efficient and effective in-context augmentation for multimodal l
 ## :+1: Awards, etc.
 
 + Reviewer at
-  - ACL ARR 2026 October, 2026
+  - ACL ARR 2026 October, 2026. (NAACL 2027, COLING 2027)
   - IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), 2026
   - European Computer Vision Association (ECCV), 2026
   - IEEE Transactions on Image Processing (TIP), 2025
